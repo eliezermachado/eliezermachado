@@ -11,7 +11,7 @@
   <img align="center" alt="Eli-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Eli-jenkins" height="40" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/jenkins.svg">
   <img align="center" alt="Eli-azure" height="40" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/azure.svg">
-  <img align="center" alt="Eli-kube" height="40" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/kubernetes.svg">
+  <img align="center" alt="Eli-kube" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 
   
 </div>
