@@ -3,7 +3,7 @@
 
 - 🔭 Estou atualmente trabalhando como SRE para desenvolver junto a equipe soluções inovadoras para o mercado financeiro.
 -😅 Experiência em ambientes com alta complexidade através de multicloud
-- 😄 Pronouns: Ele/Dele
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eli-docker" height="40" width="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
