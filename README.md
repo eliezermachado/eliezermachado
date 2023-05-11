@@ -3,17 +3,7 @@ Estou atualmente trabalhando como SRE para desenvolver junto a minha equipe, sol
 
 
 <br>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=eliezermachado&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=eliezermachado&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=eliezermachado&show_icons=true" />
-</picture>
+
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eli-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
