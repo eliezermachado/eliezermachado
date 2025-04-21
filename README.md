@@ -24,21 +24,21 @@ Documentei processos, virei referência técnica e ajudei em uma grande migraç�
 Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu próprio banco SCD e DTVM, aplicando tudo que aprendi.
 
 <br>
-⚙️ Stack Técnica
+### ⚙️ Stack Técnica
 <br>
-*Cloud:* AWS, Azure (AKS + NGINX Ingress), OCI
+#### Cloud: AWS, Azure (AKS + NGINX Ingress), OCI
 <br>
-*Kubernetes:* kind, EKS, AKS, Istio Ingress, Helm, HPA, RBAC
+#### Kubernetes: kind, EKS, AKS, Istio Ingress, Helm, HPA, RBAC
 <br>
-*IaC:* Terraform modular multi-ambiente (envs/dev, homol, prod)
+#### IaC: Terraform modular multi-ambiente (envs/dev, homol, prod)
 <br>
-*CI/CD:* Azure DevOps, Bitbucket
+#### CI/CD: Azure DevOps, Bitbucket
 <br>
-*Segurança Cloud:* Trivy, Zanshin, Falco, OPA, Wazuh
+#### Segurança Cloud: Trivy, Zanshin, Falco, OPA, Wazuh
 <br>
-Observabilidade: Prometheus, Grafana, Loki, OpenTelemetry
+#### Observabilidade: Prometheus, Grafana, Loki, OpenTelemetry
 <br>
-Banco & Mensageria: SqlServer, PostgreSQL, RabbitMQ, Redis
+#### Banco & Mensageria: SqlServer, PostgreSQL, RabbitMQ, Redis
 
 <br>
 <br>
