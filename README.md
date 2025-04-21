@@ -56,5 +56,6 @@ Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu
   <img align="center" alt="Eli-azure" height="40" width="50" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/azure.svg">
   <img align="center" alt="Eli-kube" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Eli-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Eli-node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
   
 </div>
