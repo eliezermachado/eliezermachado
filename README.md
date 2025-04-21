@@ -1,5 +1,4 @@
 ## Olá eu sou Eliezer Machado
-Estou atualmente trabalhando como SRE para desenvolver junto a minha equipe, soluções inovadoras para o mercado financeiro.
 👨‍💻 Eliezer Machado — DevOps Specialist | Cloud Infra | Segurança Bancária
 
 🔧 SRE/DevOps Specialist com experiência sólida desde 2021 sustentando e arquitetando ambientes críticos em instituições financeiras (SCD, DTVM, SCFI).📈 Especializado em alta disponibilidade, automação, observabilidade e segurança sob normas da BSM.💥 Atuando na construção de infraestrutura para DTVMs com foco em renda variável, com background técnico e estratégico.
