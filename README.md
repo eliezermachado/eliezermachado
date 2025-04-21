@@ -7,10 +7,15 @@
 
 🚀 Minha Jornada
 Comecei na tecnologia aos 14 anos, desmontando PCs e fazendo backups no XP em uma empresa familiar. Em 2012, entrei no curso técnico em redes de computadores e representei meu estado nas Olimpíadas do Conhecimento, ficando em 10º lugar nacional. Lá, mergulhei no mundo Cisco e amadureci como técnico.
+
 Entrei no mercado como estagiário de infraestrutura, passei a analista, depois supervisor de equipe e resolvi problemas cabeludos como correção de dados em bases com mais de 50 mil cadastros.
+
 Com a pandemia, mergulhei de vez em DevOps e fui chamado pra estruturar a infra de um DTVM do zero. Mesmo novo em OCI, conquistei as certificações até Architect, automatizei DRs, gerenciei Office 365 e Intune, e atuei com servidores Windows, Linux e bancos Oracle.
+
 Depois disso, assumi a frente técnica do PIX, lidando com o Banco Central. Fui promovido para a equipe de DevOps, com foco em Azure, AKS, Pipelines e automação.
+
 Documentei processos, virei referência técnica e ajudei em uma grande migração de core banking. Em 2024, fui ao AWS re:Invent em Las Vegas — minha primeira viagem internacional — como reconhecimento do meu trabalho.
+
 Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu próprio banco SCD e DTVM, aplicando tudo que aprendi.
 
 ⚙️ Stack Técnica
