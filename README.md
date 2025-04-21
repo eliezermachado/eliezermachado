@@ -24,7 +24,7 @@ Documentei processos, virei referência técnica e ajudei em uma grande migraç�
 Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu próprio banco SCD e DTVM, aplicando tudo que aprendi.
 
 <br>
-### ⚙️ Stack Técnica
+⚙️ ## Stack Técnica
 <br>
 #### Cloud: AWS, Azure (AKS + NGINX Ingress), OCI
 <br>
