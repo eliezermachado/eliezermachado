@@ -25,12 +25,19 @@ Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu
 
 <br>
 ⚙️ Stack Técnica
+<br>
 Cloud: AWS, Azure (AKS + NGINX Ingress), OCI
+<br>
 Kubernetes: kind, EKS, AKS, Istio Ingress, Helm, HPA, RBAC
+<br>
 IaC: Terraform modular multi-ambiente (envs/dev, homol, prod)
+<br>
 CI/CD: GitHub Actions, Azure DevOps, GitOps
+<br>
 Segurança Cloud: Trivy, Falco, OPA, Wazuh
+<br>
 Observabilidade: Prometheus, Grafana, Loki, OpenTelemetry
+<br>
 Banco & Mensageria: PostgreSQL, RabbitMQ, Redis
 
 <br>
