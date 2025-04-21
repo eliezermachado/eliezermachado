@@ -28,9 +28,9 @@ Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu
 ## ⚙️ Stack Técnica
 
 
-**Cloud:** AWS, Azure (AKS + NGINX Ingress), OCI
+**Cloud:** AWS, Azure, OCI
 <br>
-**Kubernetes:** kind, EKS, AKS, Istio Ingress, Helm, HPA, RBAC
+**Kubernetes:**  AKS, Nginx Ingress, Istio Ingress, Helm
 <br>
 **IaC:** Terraform modular multi-ambiente (envs/dev, homol, prod)
 <br>
