@@ -36,7 +36,7 @@ Hoje atuo como DevOps Specialist ajudando uma nova instituição a construir seu
 <br>
 **CI/CD:** Azure DevOps, Bitbucket
 <br>
-**Segurança Cloud:** Trivy, Zanshin, Falco, OPA, Wazuh
+**Segurança Cloud:** Trivy, Zanshin, Wazuh
 <br>
 **Observabilidade:** Prometheus, Grafana, Loki, OpenTelemetry
 <br>
