@@ -11,7 +11,7 @@
 
 ## 🚀 Minha Jornada
 <br>
-Comecei na tecnologia aos 14 anos, desmontando PCs e fazendo backups no XP em uma empresa familiar. Em 2012, entrei no curso técnico em redes de computadores e representei meu estado nas Olimpíadas do Conhecimento, ficando em 10º lugar nacional. Lá, mergulhei no mundo Cisco e amadureci como técnico.
+Comecei na tecnologia aos 14 anos, desmontando PCs e fazendo backups no XP em uma empresa familiar. Em 2012, entrei no curso técnico em redes de computadores e representei meu estado nas Olimpíadas do Conhecimento. Lá, mergulhei no mundo Cisco e amadureci como técnico.
 
 Entrei no mercado como estagiário de infraestrutura, passei a analista, depois supervisor de equipe e resolvi problemas cabeludos como correção de dados em bases com mais de 50 mil cadastros.
 
